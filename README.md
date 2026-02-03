@@ -59,5 +59,3 @@ Traditional traffic systems struggle with dynamic congestion patterns, limited h
 
 ---
 
-## 🗂️ Project Structure
-
